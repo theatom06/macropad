@@ -469,7 +469,7 @@
       "plot": "/home/steve/macropad/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../macropad/Hackpad.step",
+      "step": "../Hackpad.step",
       "svg": "../../../../../macropad/",
       "vrml": ""
     },
